@@ -2,6 +2,5 @@ try dance
 
 dance today
 
-<<<<<<< HEAD
 dance1
-=======
+
